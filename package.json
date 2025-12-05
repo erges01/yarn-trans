@@ -1,0 +1,16 @@
+{
+  "name": "yarn-translator",
+  "version": "1.0.0",
+  "description": "yarn translator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ade.dev",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/chrome": "^0.1.32",
+    "copy-webpack-plugin": "^13.0.1",
+    "typescript": "^5.9.3"
+  }
+}
